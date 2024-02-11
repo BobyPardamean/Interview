@@ -1,2 +1,2 @@
 # interview
-abdc
+![a]('assets/abc1.png')
