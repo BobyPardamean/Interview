@@ -1,2 +1,2 @@
 # interview
-![a]('assets/abc1.png')
+![a]('https://github.com/BobyPardamean/interview/blob/main/assets/abc1.png?raw=true')
